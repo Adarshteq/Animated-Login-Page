@@ -4,6 +4,10 @@ A sleek and modern animated login page built using HTML, CSS, and JavaScript.
 
 This project demonstrates how to combine clean design with smooth animations to enhance user experience in authentication UIs.
 
+🎥 Demo
+
+https://adarshteq.github.io/Animated-Login-Page/
+
 ✨ Features
 
 🎨 Modern, responsive UI
